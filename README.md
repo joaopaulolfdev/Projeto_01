@@ -1,1 +1,5 @@
-# Projeto_01  Projeto básico  feito com HTML e CSS.  Um formulário
+Nome do Projeto WebMaster Form
+
+Uma página para a web com um formulário para cadastros.
+
+Tecnologia: HTML e CSS
